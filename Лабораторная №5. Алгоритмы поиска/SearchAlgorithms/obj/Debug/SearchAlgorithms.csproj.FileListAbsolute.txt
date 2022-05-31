@@ -1,0 +1,7 @@
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe.config
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\bin\Debug\SearchAlgorithms.pdb
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\obj\Debug\SearchAlgorithms.csproj.AssemblyReference.cache
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\obj\Debug\SearchAlgorithms.csproj.CoreCompileInputs.cache
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\obj\Debug\SearchAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №5. Алгоритмы поиска\SearchAlgorithms\obj\Debug\SearchAlgorithms.pdb

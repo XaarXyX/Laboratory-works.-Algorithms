@@ -1,0 +1,7 @@
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\bin\Debug\QuadraticComplexityAlgorithms.exe.config
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\bin\Debug\QuadraticComplexityAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\bin\Debug\QuadraticComplexityAlgorithms.pdb
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\obj\Debug\QuadraticComplexityAlgorithms.csproj.AssemblyReference.cache
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\obj\Debug\QuadraticComplexityAlgorithms.csproj.CoreCompileInputs.cache
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\obj\Debug\QuadraticComplexityAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №6. Алгоритмы квадратичной сложности\QuadraticComplexityAlgorithms\obj\Debug\QuadraticComplexityAlgorithms.pdb

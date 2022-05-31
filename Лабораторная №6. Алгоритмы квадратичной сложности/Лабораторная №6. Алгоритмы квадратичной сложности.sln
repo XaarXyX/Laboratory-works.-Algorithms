@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticComplexityAlgorithms", "QuadraticComplexityAlgorithms\QuadraticComplexityAlgorithms.csproj", "{5C758351-934A-41A9-993E-CBADF3DB04E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticComplexityAlgorithmsTests", "QuadraticComplexityAlgorithmsTests\QuadraticComplexityAlgorithmsTests.csproj", "{72D58A5B-B54D-4DA5-9D14-5D1A48C4C93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C758351-934A-41A9-993E-CBADF3DB04E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C758351-934A-41A9-993E-CBADF3DB04E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C758351-934A-41A9-993E-CBADF3DB04E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C758351-934A-41A9-993E-CBADF3DB04E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D58A5B-B54D-4DA5-9D14-5D1A48C4C93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D58A5B-B54D-4DA5-9D14-5D1A48C4C93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D58A5B-B54D-4DA5-9D14-5D1A48C4C93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D58A5B-B54D-4DA5-9D14-5D1A48C4C93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCAC0820-16C8-4227-8B1B-26A14AE9C725}
+	EndGlobalSection
+EndGlobal

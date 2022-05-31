@@ -1,0 +1,7 @@
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\bin\Debug\LinearComplexityAlgorithms.exe.config
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\bin\Debug\LinearComplexityAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\bin\Debug\LinearComplexityAlgorithms.pdb
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\obj\Debug\LinearComplexityAlgorithms.csproj.AssemblyReference.cache
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\obj\Debug\LinearComplexityAlgorithms.csproj.CoreCompileInputs.cache
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\obj\Debug\LinearComplexityAlgorithms.exe
+D:\Algorithms Sanya\Лабораторная №8. Алгоритмы линейной сложности\LinearComplexityAlgorithms\obj\Debug\LinearComplexityAlgorithms.pdb

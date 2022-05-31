@@ -1,0 +1,16 @@
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.exe
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.deps.json
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.runtimeconfig.json
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.runtimeconfig.dev.json
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.dll
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\ref\GreedyAlgorithms_Task_2.4.dll
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\bin\Debug\net5.0\GreedyAlgorithms_Task_2.4.pdb
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.csproj.AssemblyReference.cache
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.AssemblyInfoInputs.cache
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.AssemblyInfo.cs
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.csproj.CoreCompileInputs.cache
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.dll
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\ref\GreedyAlgorithms_Task_2.4.dll
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.pdb
+D:\Algorithms Sanya\Лабораторная №9. Жадные алгоритмы\GreedyAlgorithms_Task_2.4\obj\Debug\net5.0\GreedyAlgorithms_Task_2.4.genruntimeconfig.cache

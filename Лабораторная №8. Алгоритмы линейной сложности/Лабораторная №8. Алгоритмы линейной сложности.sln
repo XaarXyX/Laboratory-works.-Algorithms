@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearComplexityAlgorithms", "LinearComplexityAlgorithms\LinearComplexityAlgorithms.csproj", "{A1B88B3A-4579-4475-9465-7D03D5213D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearComplexityAlgorithmsTests", "LinearComplexityAlgorithmsTests\LinearComplexityAlgorithmsTests.csproj", "{E38BE0DE-9ACC-4E0F-A9AA-45BBE8B9833F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B88B3A-4579-4475-9465-7D03D5213D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B88B3A-4579-4475-9465-7D03D5213D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B88B3A-4579-4475-9465-7D03D5213D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B88B3A-4579-4475-9465-7D03D5213D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38BE0DE-9ACC-4E0F-A9AA-45BBE8B9833F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38BE0DE-9ACC-4E0F-A9AA-45BBE8B9833F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38BE0DE-9ACC-4E0F-A9AA-45BBE8B9833F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38BE0DE-9ACC-4E0F-A9AA-45BBE8B9833F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD812ECD-2970-4337-A260-5F784E6D5FCC}
+	EndGlobalSection
+EndGlobal
